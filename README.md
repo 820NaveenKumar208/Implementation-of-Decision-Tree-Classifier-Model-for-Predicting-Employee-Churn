@@ -1,4 +1,4 @@
-# develop By : Naveen Kumar.T
+# Develop By : Naveen Kumar.T
 # RegisterNumber : 212223220067
 Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
 
